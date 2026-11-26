@@ -1,6 +1,8 @@
 """Entry for make.fun: Laugh Track: The Crypto Trading Joke Contest.
 
 Writes one crypto trading joke to entry.txt.
+
+Diversification, trading-life edition: every bag down together.
 """
 import os
 
